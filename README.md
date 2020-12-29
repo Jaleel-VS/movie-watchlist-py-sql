@@ -18,3 +18,5 @@
 #### Progress:
     - 29/12/2020
         - Create menu
+        - create main database functions in database.py
+        - Learn about UPDATE and SET
