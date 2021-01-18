@@ -20,3 +20,5 @@
         - Create menu
         - create main database functions in database.py
         - Learn about UPDATE and SET
+    - 17/01/2021
+        - DELETE FROM
