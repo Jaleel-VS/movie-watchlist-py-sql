@@ -22,3 +22,9 @@
         - Learn about UPDATE and SET
     - 17/01/2021
         - DELETE FROM
+    - 18/01/2021
+        - Autoincrementing row IDs
+        - JOIN
+        - ORDER BY
+        - LIMIT
+        - LIKE
