@@ -1,4 +1,4 @@
-### User: Jalee van Staden
+### User: Jaleel van Staden
 ### Project: Movies Watchlist App
 
 #### Features:
